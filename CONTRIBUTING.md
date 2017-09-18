@@ -5,10 +5,14 @@ Members of our community are encouraged to write articles for our blogging platf
 ## Basic Setup
 
 1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [IEEE NITK GitHub website repository](https://github.com/IEEE-NITK/ieee-nitk.github.io)
-3. Clone the repo you just forked. You can do this using the `git clone` command. Check out this article for how to install Git on [Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04) and on [Windows](http://www.jamessturtevant.com/posts/5-Ways-to-install-git-on-Windows/)
-4. Check out the sample posts in `blog_src/_posts` to see examples for assigning categories and tags, and other YAML data. Posts are written in Markdown.
-5. Read the documentation below for further customization pointers and documentation.
+2. Install jekyll-paginate, by
+```
+$ gem install jekyll-paginate
+```
+3. Fork the [IEEE NITK GitHub website repository](https://github.com/IEEE-NITK/ieee-nitk.github.io)
+4. Clone the repo you just forked. You can do this using the `git clone` command. Check out this article for how to install Git on [Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04) and on [Windows](http://www.jamessturtevant.com/posts/5-Ways-to-install-git-on-Windows/)
+5. Check out the sample posts in `blog_src/_posts` to see examples for assigning categories and tags, and other YAML data. Posts are written in Markdown.
+6. Read the documentation below for further customization pointers and documentation.
 
 Here is a write up on how to start contributing to our blog:
 
@@ -66,10 +70,10 @@ date: 2017-05-14 23:32:44
 image: '/assets/img/'
 description: 'Introductory post to IEEE NITK'
 tags:
-- IEEE NITK 
+- IEEE NITK
 - CompSoc
 categories:
-- IEEE
+- Compsoc/Diode/Piston
 github_username: 'Salman Shah'
 ---
 You should use Angular because it's trendy. Here's how to create a directive:
@@ -131,7 +135,7 @@ Configuration file: none
             Source: /home/salman/All-Projects/ieee-nitk.github.io
        Destination: /home/salman/All-Projects/ieee-nitk.github.io/_site
  Incremental build: disabled. Enable with --incremental
-      Generating... 
+      Generating...
      Build Warning: Layout 'post' requested in blog_src/_posts/2017-05-14-introduction-to-ieee.md does not exist.
      Build Warning: Layout 'post' requested in blog_src/_posts/2017-05-18-vinay-bhat-interview.md does not exist.
      Build Warning: Layout 'default' requested in /blog_src/index.html does not exist.
@@ -148,7 +152,10 @@ Configuration file: none
 
 ## Step 4: Publishing your article
 
-Commit and push your changes to your forked repo. Once those changes are in, go ahead and make a pull request to the [main blog's repo](https://github.com/IEEE-NITK/ieee-nitk.github.io).
+Create a new branch in your local repo by the command `git checkout -b <branch_name>`
+
+
+Commit and push your changes to your repository. Once those changes are in, go ahead and make a pull request to the [main blog's repo](https://github.com/IEEE-NITK/ieee-nitk.github.io).
 
 Not sure how to do this? Do some googling first, and if no luck just ask somebody on our Slack channel under the #github channel and we'll be happy to help you out.
 
@@ -169,6 +176,6 @@ New post: Why you should use Angular?`
 Description:
 This article explains why every web developer should know Angular in 2015.
 ```
-- Please ask someone to review the article, once you have submitted a Pull Request! 
+- Please ask someone to review the article, once you have submitted a Pull Request!
 
 - As soon as your article is merged, it'll also be live on our blog (usually takes around 2 minutes to publish).

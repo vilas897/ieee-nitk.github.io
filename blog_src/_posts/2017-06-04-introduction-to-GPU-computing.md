@@ -6,12 +6,10 @@ date: 2017-06-04 12:00:00
 image: '/assets/img/'
 description: 'An overview of how GPUs and Graphic rendering works along with an introduction to GPGPUs'
 tags:
-- IEEE NITK
-- CompSoc
 - High Performance Computing
 - Game Development
 categories:
-- IEEE
+- CompSoc
 github_username: 'vilas897'
 comments: true
 ---
@@ -68,7 +66,6 @@ Great! :) You could get started with learning how to code using one of the frame
 Links:
 * OpenCL:
     1. [Fixstars OpenCL Programming Book](https://www.fixstars.com/en/opencl/book/)
-    2. [Heterogeneous Parallel Computing with OpenCL 2.0](http://www.dahlan.id/files/ebooks2/2015%203rd%20Heterogeneous%20Computing%20with%20OpenCL%202.0.pdf)
 
 * CUDA:
     1. [CUDA C/C++ Basics - Nvidia Corporation](http://www.nvidia.com/docs/io/116711/sc11-cuda-c-basics.pdf)

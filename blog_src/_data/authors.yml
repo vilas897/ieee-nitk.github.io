@@ -5,15 +5,15 @@ viggi:
   user_description: 'That guy who always spends time in front of laptop and loves js'
   email: 'vighneshvelayudhan@gmail.com'
 pranaypraveen:
-    name: Pranay Praveen
-    github: pranaypraveen
-    author_image: 'pranay_praveen.jpg'
-    user_description: "Hyperloop Enthusiast"
-    email: pranay2098@gmail.com
+  name: Pranay Praveen
+  github: pranaypraveen
+  author_image: 'pranay_praveen.jpg'
+  user_description: "Sometimes the questions are complicated and the answers are simple."
+  email: pranay2098@gmail.com
 kaushiksk:
   name: Kaushik S Kalmady
   github: kaushiksk
-  author_image: 'kaushik_sk.jpg'
+  author_image: 'blog-author.jpg'
   user_description: "Learn. Build. Build on it."
   email: kaushikskalmady@outlook.com
 salman-bhai:
@@ -49,7 +49,7 @@ vilas897:
   author_image: 'blog-author.jpg'
   user_description: 'Leaving the ordinary behind'
   email: vilasnitk19@gmail.com
-abhijithkamath:
+AbhijithKamath:
   name: Abhijith Kamath
   github: AbhijithKamath
   author_image: 'abhijith_kamath.jpeg'
@@ -97,3 +97,163 @@ shreyas:
   author_image: 'shreyas.jpeg'
   user_description: 'Mechanical Engineering MS Admit at Duke University'
   email: 'shreyas.hegde7@gmail.com'
+swathisbhat:
+  name: Swathi S Bhat
+  github: swathisbhat
+  author_image: 'swathi.png'
+  user_description:
+  email: 'swathibhat282@gmail.com'
+aditya5558:
+  name: A Aditya
+  github: aditya5558
+  author_image: 'a_aditya.jpeg'
+  user_description: 'A Data Science Enthusiast'
+  email: 'adityanant@gmail.com'
+megha68:
+  name: Megha Mantur
+  github: megha68
+  author_image: 'megha.jpg'
+  user_description: 'Yet to learn a lot!'
+  email: 'meghamantur060896@gmail.com'
+shuvam96:
+  name: Shuvam Senapati
+  github: shuvam96
+  author_image: 'shuvam.jpg'
+  user_description: 'Seeking Nirvana through CAD Modelling'
+  email: 'senapati.shuvam96@gmail.com'
+gitmenonsandu:
+  name: Sandeep Menon
+  github: gitmenonsandu
+  author_image: 'sandeep.jpeg'
+  user_description: 'Dream the future, they come true'
+  email: 'menonsandu@gmail.com'
+prajwal:
+  name: Prajwal Bharadwaj
+  github: ''
+  author_image: 'prajwal.jpg'
+  user_description: 'Amazed by the power of knowledge which increases aesthetic value'
+  email: 'prajwalb9897@gmail.com'
+prafulitti:
+  name: Praful Itti
+  github: prafulitti
+  author_image: 'praful.jpg'
+  user_description: "Don't go in the water"
+  email: 'praful.itti@gmail.com'
+karthik:
+  name: Karthik
+  github: ''
+  author_image: 'blog-author.jpg'
+  user_description: 'Computers and Coding'
+  email: karthik@gmail.com
+aneesh297:
+  name: Aneesh Aithal
+  github: aneesh297
+  author_image: 'aneesh.jpg'
+  user_description: "The future is now"
+  email: aneesh297@gmail.com
+nandini:
+  name: Nandini
+  author_image: 'Nandini_photo.jpg'
+  email: nandini.pvs@gmail.com
+akula-sri-charan:
+  name: Sri Charan Akula
+  author_image: 'akulasricharan.jpg'
+  email: akulasricharan.asc@gmail.com
+Shwetha:
+  name: Shwetha S V
+  author_image: 'shwetha.png'
+  email: shwethasv97@gmail.com
+  user_description: 'Passion drives you. Hardwork gets you there.'
+akshay:
+  name: Akshay Krishna
+  author_image: 'akshay.jpg'
+  email: 'akshay062@gmail.com'
+  user_description : 'A curious creature :)'
+subbalakshmi:
+  name: N Subbalakshmi
+  author_image: 'subbalakshmi.jpg'
+  email: 'subbalakshmi.n18@gmail.com'
+  user_description: 'Always eager to learn something new'
+natasha-jeppu:
+  name: Natasha Jeppu
+  github: natasha-jeppu
+  author_image: 'natasha-jeppu.jpg'
+  user_description: 'Avid researcher and DAAD scholar'
+  email: natasha.jeppu@gmail.com
+vinayakvenugopal27:
+  name: Vinayak V Gopal
+  github: vinayakvenugopal27
+  author_image: 'vinayak.jpg'
+  user_description: 'Just another human over here!'
+  email: vinayakvenugopal27@gmail.com
+santosh-kodali:
+  name: Santosh Kodali
+  github: santosh-kodali
+  author_image: 'santosh.jpg'
+  user_description: 'The World is rapidly changing, let us try and keep up.'
+  email: santoshkvk@gmail.com
+chennakeshava1998:
+  name: Chenna Keshava B S
+  github: chennakeshava1998
+  author_image: 'ck.jpg'
+  email: ckeshavabs@gmail.com
+somnathsarkar:
+  name: Somanth Sarkar
+  github: somnathsarkar
+  author_image: 'blog-author.jpg'
+  user_description: 'Programmer, interested in CP.'
+  email: somnath.k.sarkar@gmail.com
+abhishekthigale:
+  name: Abhishek Thigale
+  github: abhishekthigale
+  author_image: 'abhishek.jpg'
+  user_description: 'Mech Engineer for Life!'
+  email: abhithigale3@gmail.com
+mahirjain25:
+  name: Mahir Jain
+  github: mahirjain25
+  author_image: 'mahir.jpg'
+  user_description: 'Hard work beats talent when talent fails to work hard.'
+  email: mahirjain25@gmail.com
+adwait1-G:
+  name: Adwaith Gautham
+  github: adwait1-G
+  author_image: blog-author.jpg
+  user_description: "boom! boom!"
+  email: adwait.gautham@gmail.com
+anirudh0707:
+  name: Anirudh B H
+  github: ''
+  user_description: 'If you can’t have the best, make the best of what you have!'
+  author_image: 'anirudh.jpg'
+  email: yani.bh@gmail.com
+ayush9753:
+  name: Ayush G S
+  github:
+  author_image: 'ayush.png'
+  user_description: 'Keep experimenting!'
+  email: Ayush.gs1998@gmail.com
+nikhilgovindarajan:
+  name: Nikhil Govindarajan
+  github: nikhilgovindarajan
+  author_image: blog-author.jpg
+  user_description: 'TBD. Pretty good guitarist though.'
+  email: nikhil0398@gmail.com
+sachitkrishnan:
+  name: Sachit Krishnan
+  github: sachitkrishnan
+  author_image: sachitk.jpg
+  user_description: 'Electrical and Electronics Engineering, BTech II Year'
+  email: 'sachitk777@gmail.com'
+adilamrajiv:
+  name: Adila M Rajiv
+  github: adilamrajiv
+  author_image: blog-author.jpg
+  user_description: 'TBD.'
+  email: adilamrajiv@gmail.com
+sssachin300:
+  name: Sachin Sampath
+  github: sssachin300
+  author_image: blog-author.jpg
+  user_description: 'TBD.'
+  email: sssachin300@gmail.com

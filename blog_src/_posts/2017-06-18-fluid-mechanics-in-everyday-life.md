@@ -6,13 +6,13 @@ date: 2017-06-18 12:10:44
 image: '/assets/img/'
 description: 'Thought Fluid mechanics is a subject involving equations and complex mathematical formula? Here are some everyday applications which you may not have thought about'
 tags:
-- Piston
 - Fluid Mechanics
 categories:
-- IEEE
+- Piston
 github_username: 'shreyas'
 comments: true
 ---
+
 ## Applying Makeup!
 ![Image1](/blog/assets/img/fluid-mech-everyday-life/1.jpg)
 

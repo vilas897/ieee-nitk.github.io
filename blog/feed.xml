@@ -5,191 +5,171 @@
     <description>A blog documenting random findings and musings of our members</description>
     <link>http://ieeenitk.org/blog/</link>
     <atom:link href="http://ieeenitk.org/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Jun 2017 14:23:49 +0530</pubDate>
-    <lastBuildDate>Sun, 25 Jun 2017 14:23:49 +0530</lastBuildDate>
-    <generator>Jekyll v3.4.4</generator>
+    <pubDate>Mon, 18 Sep 2017 20:47:21 +0530</pubDate>
+    <lastBuildDate>Mon, 18 Sep 2017 20:47:21 +0530</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
     
       <item>
-        <title>Hyperloop</title>
-        <description>&lt;h1 id=&quot;hyperloop&quot;&gt;Hyperloop&lt;/h1&gt; &lt;p&gt;  &lt;img src=&quot;/blog/assets/img/hyperloop/1.jpg&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt; &lt;p&gt;One of the most valued and important entity nowadays is time. To help the people around the world to save their   travelling time, Elon Musk came up with an innovative idea of hyperloop. Hyperloop is a proposed mode of passenger and freight transportation that would propel a pod-like vehicle through a reduced-pressure tube that could potentially exceed airliner speeds. The pods would accelerate to cruising speed gradually using a linear electric motor and glide above their track using passive magnetic levitation or air bearings. The tubes could also go above ground on columns...</description>
-        <pubDate>Sun, 25 Jun 2017 06:30:00 +0530</pubDate>
-        <link>http://ieeenitk.org/blog/hyperloop/</link>
-        <guid isPermaLink="true">http://ieeenitk.org/blog/hyperloop/</guid>
+        <title>BitTorrent Explained</title>
+        <description>&lt;blockquote&gt; &lt;p&gt;“Just torrent it!”&lt;/p&gt; &lt;p&gt;“You can torrent any type of file, its all there on the internet…”&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;These are just some of the common sentences one hears when it comes to downloading files from the internet. However, many people do not even know what BitTorrent is, much less know how it works.(It includes uploading files as well)&lt;/p&gt; &lt;h2 id=&quot;a-simple-introduction&quot;&gt;A simple introduction&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;/blog/assets/img/BitTorrent-Explained/pic1.png&quot; alt=&quot;BitTorrent Logo&quot; /&gt;&lt;/p&gt; &lt;p&gt;BitTorrent is a communication protocol(set of rules) that is used for sharing all types of data and electronic files over the internet. This falls under the category of &lt;a href=&quot;https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing&quot;&gt;peer-to-peer file sharing&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Now,...</description>
+        <pubDate>Mon, 18 Sep 2017 15:30:30 +0530</pubDate>
+        <link>http://ieeenitk.org/blog/BitTorrentExplained/</link>
+        <guid isPermaLink="true">http://ieeenitk.org/blog/BitTorrentExplained/</guid>
         
-        <category>hyperloop</category>
+        <category>Networking</category>
         
-        <category>Piston</category>
+        <category>Torrents</category>
         
+        <category>P2P</category>
         
-      </item>
-    
-      <item>
-        <title>Graphene - A Wonder Material</title>
-        <description>&lt;h1 id=&quot;graphene--a-wonder-material&quot;&gt;GRAPHENE – A WONDER MATERIAL&lt;/h1&gt; &lt;p&gt;“I have never even heard of this term graphene before”, might be your thought process presently. Read further to understand why I call it a wonder material. What’s running in your mind at this point of time due to similarity in what you have studied is Graphite, an allotrope of Carbon which is very commonly found. But, what’s Graphene then? Yes, graphite and graphene are in fact the same except for a few structural differences which brings in unexpected properties. Graphite consists of various layers of Carbon atoms where each layer is arranged in...</description>
-        <pubDate>Sat, 24 Jun 2017 21:30:00 +0530</pubDate>
-        <link>http://ieeenitk.org/blog/graphene/</link>
-        <guid isPermaLink="true">http://ieeenitk.org/blog/graphene/</guid>
-        
-        <category>Diode</category>
-        
-        <category>Graphene</category>
-        
-        
-        <category>IEEE</category>
-        
-      </item>
-    
-      <item>
-        <title>Promises, Closures and Potatoes</title>
-        <description>&lt;h1 id=&quot;promises-closures-and-potatoes&quot;&gt;Promises, Closures and Potatoes.&lt;/h1&gt; &lt;p&gt;Well this article is mainly about Promises and Closures, two concepts that most of us don’t really care about in the beginning, but in reality, we have been using it a lot. “Promises and Closures” would’t sound cool so I thought of this much innovative title.&lt;/p&gt; &lt;h2 id=&quot;so-what-are-promises&quot;&gt;So what are promises?&lt;/h2&gt; &lt;p&gt;They are not new, and they are pretty popular for a long time. &lt;img src=&quot;/blog/assets/img/promises-closures-and-potatoes/image1.png&quot; alt=&quot;image1&quot; /&gt; Promises gives you this feature of asynchronous nature in the code. It actually lets a third agent interact with your code: let’s take a small example. Assume...</description>
-        <pubDate>Fri, 23 Jun 2017 00:00:00 +0530</pubDate>
-        <link>http://ieeenitk.org/blog/promises-closures-and-potatoes/</link>
-        <guid isPermaLink="true">http://ieeenitk.org/blog/promises-closures-and-potatoes/</guid>
-        
-        <category>IEEE NITK</category>
         
         <category>CompSoc</category>
         
-        <category>JavaScript</category>
-        
-        <category>Programming</category>
-        
-        
-        <category>IEEE</category>
-        
       </item>
     
       <item>
-        <title>A talk with - Gaurav Hegde</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/blog/assets/img/gaurav_hegde_interview/Gaurav.jpg&quot; alt=&quot;Gaurav Hegde&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;back-story&quot;&gt;Back-Story&lt;/h2&gt; &lt;p&gt;Hello guys, I am Abijith, third year EEE. I had this opportunity among many opportunities to interview and talk to Gaurav. In my two years of IEEE and NITK life, I have been in touch with him for only one semester, because he took a semester off in his 7th semester. That semester has been the best academic semester for me. The discussions, the treats, the interactions, the projects, the amount of knowledge that this person has! Oh good lord!&lt;/p&gt; &lt;p&gt;Anyway, without any further ado, presenting Gaurav. Note: Questions are in &lt;strong&gt;bold&lt;/strong&gt;&lt;/p&gt; &lt;h3...</description>
-        <pubDate>Tue, 20 Jun 2017 05:02:44 +0530</pubDate>
-        <link>http://ieeenitk.org/blog/gaurav-hegde-interview/</link>
-        <guid isPermaLink="true">http://ieeenitk.org/blog/gaurav-hegde-interview/</guid>
+        <title>Storing energy in molten salt</title>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt; &lt;p&gt;Renewable energy is the answer to sustainable development. It is the hot topic of our generation and even though it is in its rudimentary stage, it is the best solution in maintaining the balance between environment and our energy needs. We all know that a lot of research is going on in this field, whether it is the oft talked about and used solar and wind energy, or the slightly less used ocean thermal energy.&lt;/p&gt; &lt;p&gt;But, what do you do after you produce this energy? What if it is in excess to your current need? You need to...</description>
+        <pubDate>Mon, 18 Sep 2017 15:30:00 +0530</pubDate>
+        <link>http://ieeenitk.org/blog/storing-energy-in-salt!/</link>
+        <guid isPermaLink="true">http://ieeenitk.org/blog/storing-energy-in-salt!/</guid>
         
-        <category>IEEE NITK</category>
+        <category>Energy</category>
         
-        <category>Diode</category>
+        <category>Research</category>
         
-        <category>Math</category>
+        <category>Innovation</category>
         
-        <category>Gyan</category>
-        
-        
-        <category>IEEE</category>
-        
-      </item>
-    
-      <item>
-        <title>Fluid mechanics in everyday life</title>
-        <description>&lt;h2 id=&quot;applying-makeup&quot;&gt;Applying Makeup!&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;/blog/assets/img/fluid-mech-everyday-life/1.jpg&quot; alt=&quot;Image1&quot; /&gt;&lt;/p&gt; &lt;p&gt;When you put on eye shadow or powder, you are most definitely applying shear and pressure forces. When you put foundation on a sponge and smear it over your face you can feel the shear stress acting on your face. Furthermore, the shear stress increases as the foundation moves from the sponge to your face. This causes no slip at the boundary, which allows the foundation to stick to your face rather than slide off. This is a great example of Couette Flow!!! It is amazing to realize how much fluid mechanics applies...</description>
-        <pubDate>Sun, 18 Jun 2017 17:40:44 +0530</pubDate>
-        <link>http://ieeenitk.org/blog/fluid-mechanics-in-everyday-life/</link>
-        <guid isPermaLink="true">http://ieeenitk.org/blog/fluid-mechanics-in-everyday-life/</guid>
         
         <category>Piston</category>
         
-        <category>Fluid Mechanics</category>
-        
-        
-        <category>IEEE</category>
-        
       </item>
     
       <item>
-        <title>The Fourth Industrial Revolution</title>
-        <description>&lt;p&gt;Automation, Internet of Things, Genetic engineering, cloud computing, renewable energy, sustainable development. Welcome to the Future. Welcome to the 4th Industrial revolution.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/blog/assets/img/the-fourth-industrial-revolution/pic1.jpg&quot; alt=&quot;image1&quot; /&gt;&lt;/p&gt; &lt;p&gt;Professor Klaus Schwab, Founder and Executive Chairman of the World Economic Forum published the ‘The Fourth Industrial Revolution’. Through this he explained its impact on economies, countries, politics and even ideologies. The fourth industrial revolution focuses on making our industries more productive with automation cloud computing and IoT, shying away from fossil fuels and making super-soldiers (through genetic engineering!). That last one is questionable though…&lt;/p&gt; &lt;p&gt;Genetic engineering will help us in not only rectifying...</description>
-        <pubDate>Fri, 16 Jun 2017 18:40:44 +0530</pubDate>
-        <link>http://ieeenitk.org/blog/the-fourth-industrial-revolution/</link>
-        <guid isPermaLink="true">http://ieeenitk.org/blog/the-fourth-industrial-revolution/</guid>
+        <title>What makes a Smart Home Smart</title>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt; &lt;p&gt;When you leave your home have you been bothered by these little doubts like have I turned the water heater off? Did I set the security at home? Did I switch off the TV?&lt;/p&gt; &lt;p&gt;With the introduction of smart homes these will no longer be a bother to us anymore. Any electrical component, may it be a fan or your TV or even you’re your coffee maker, every electrical appliance in our homes can be hooked up the home network. This will basically allow us to control our entire house with our laptops or something as simple as...</description>
+        <pubDate>Mon, 18 Sep 2017 10:00:00 +0530</pubDate>
+        <link>http://ieeenitk.org/blog/What-Makes-a-Smart-Home-Smart/</link>
+        <guid isPermaLink="true">http://ieeenitk.org/blog/What-Makes-a-Smart-Home-Smart/</guid>
         
-        <category>Piston</category>
+        <category>Smart homes</category>
         
         <category>IoT</category>
         
-        <category>Automation</category>
-        
-        
-        <category>IEEE</category>
-        
-      </item>
-    
-      <item>
-        <title>Through the eyes of a Computer</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/blog/assets/img/through-the-eyes-of-a-computer/image001.jpg&quot; alt=&quot;Intro&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Robot&lt;/strong&gt; – A word that might remind you of a Rajnikanth starrer or give you the picture of a metallic body going here and there and doing things that humans do quite naturally, on their own. All of us have at least once thought of owning a robot that could do our assignments, or just do things that we are lazy to do. And then, as you enter your college, you take online courses for learning how to build robots that follow lines, identify colours and do all sorts of things that you think it should...</description>
-        <pubDate>Wed, 14 Jun 2017 18:40:44 +0530</pubDate>
-        <link>http://ieeenitk.org/blog/through-the-eyes-of-a-computer/</link>
-        <guid isPermaLink="true">http://ieeenitk.org/blog/through-the-eyes-of-a-computer/</guid>
-        
-        <category>Computer Vision</category>
-        
-        <category>CompSoc</category>
         
         <category>Diode</category>
         
-        <category>Image Processing</category>
-        
-        <category>Artificial Intelligence</category>
-        
-        
-        <category>IEEE</category>
-        
       </item>
     
       <item>
-        <title>Introduction to Reverse Engineering</title>
-        <description>&lt;p&gt;I am sure you would have fixed a bug if you have done programming. Going through your code, identifying places where it could have gone wrong, trying out different inputs to make it easier, each one with your own different methods! You also would have learnt to make your debugging process simpler with your experience for sure. Congratulations for your first step towards an important skill required for reverse engineering :)&lt;/p&gt; &lt;p&gt;Lets begin with a simple intuitive understanding of reverse engineering. You have a toy gun in which you can load bullets and shoot. One fine day, it stops working!...</description>
-        <pubDate>Wed, 14 Jun 2017 17:40:44 +0530</pubDate>
-        <link>http://ieeenitk.org/blog/introduction-to-reverse-engineering/</link>
-        <guid isPermaLink="true">http://ieeenitk.org/blog/introduction-to-reverse-engineering/</guid>
+        <title>Water Memory What A Memory</title>
+        <description>&lt;p&gt;What would you preferably use to store your precious data - a hard disk, a pen-drive, a DVD; or perhaps WATER!&lt;/p&gt; &lt;p&gt;Scientists from Germany now believe that water has a memory, meaning that what once was seen as a simple commodity has been closely examined to reveal a scientific revelation, uncovering a mind-blowing truth.&lt;/p&gt; &lt;h2 id=&quot;theory&quot;&gt;Theory&lt;/h2&gt; &lt;p&gt;Individual drops of water from the same sample were examined at incredibly high magnification, probably the first experiment of this kind and surprisingly scientists were able to physically see that each droplet of water has its own &lt;em&gt;individual microscopic pattern,&lt;/em&gt; distinguishable from the next...</description>
+        <pubDate>Mon, 11 Sep 2017 10:00:00 +0530</pubDate>
+        <link>http://ieeenitk.org/blog/Water-Memory-What-A-Memory/</link>
+        <guid isPermaLink="true">http://ieeenitk.org/blog/Water-Memory-What-A-Memory/</guid>
         
-        <category>CTF</category>
+        <category>Water Memory</category>
         
-        <category>CompSoc</category>
-        
-        <category>Ethical Hacking</category>
-        
-        <category>Security</category>
-        
-        
-        <category>IEEE</category>
-        
-      </item>
-    
-      <item>
-        <title>Implementing Google Image Search Style Grid</title>
-        <description>&lt;h1 id=&quot;implementing-google-image-search-style-grid&quot;&gt;Implementing Google Image Search Style Grid&lt;/h1&gt; &lt;p&gt;I love design principles of Google. The way they present things is really awesome. One such presentation is Google Image Search.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/blog/assets/img/google_image_search/google_image_search.png&quot; alt=&quot;Google Image Search&quot; /&gt;&lt;/p&gt; &lt;p&gt;Look at the way they arrange images. Each row has a fixed width, but their are no columns. The images have arranges themselves, intelligently, just enough to fit the row. I always wondered, what algorithm they must have used to achieve this.&lt;/p&gt; &lt;h3 id=&quot;what-i-thought&quot;&gt;What I thought&lt;/h3&gt; &lt;p&gt;So my search began. Initially I thought they might have used some kind of knapsack algorithm to fit images to...</description>
-        <pubDate>Sat, 10 Jun 2017 17:40:44 +0530</pubDate>
-        <link>http://ieeenitk.org/blog/google-image-search-grid/</link>
-        <guid isPermaLink="true">http://ieeenitk.org/blog/google-image-search-grid/</guid>
-        
-        <category>Design</category>
-        
-        <category>Grid</category>
-        
-        
-        <category>IEEE</category>
-        
-      </item>
-    
-      <item>
-        <title>Lighting Up your Room!</title>
-        <description>&lt;h2 id=&quot;apparatus&quot;&gt;Apparatus:&lt;/h2&gt; &lt;p&gt;1.&lt;strong&gt;LED strips&lt;/strong&gt; &lt;br /&gt; You should find these in most home decor stores. They could turn out to be expensive depending upon the quality of light you expect. There are RGB strips available too! &lt;br /&gt;&lt;/p&gt; &lt;p&gt;2.&lt;strong&gt;TIP 31 switch&lt;/strong&gt;&lt;br /&gt; Now this is a power transistor that can withstand large currents that the LED strips demand&lt;/p&gt; &lt;p&gt;3.&lt;strong&gt;AUX cable&lt;/strong&gt;&lt;br /&gt; This is to connect your music player to the device&lt;/p&gt; &lt;p&gt;4.&lt;strong&gt;12V battery&lt;/strong&gt;&lt;br /&gt; The LED strips demand a lot of current, so get one that supplies enough. There are rechargeable lead acid batteries available. They are cheaper, but bulkier...</description>
-        <pubDate>Sat, 10 Jun 2017 16:18:33 +0530</pubDate>
-        <link>http://ieeenitk.org/blog/lighting-up-your-room/</link>
-        <guid isPermaLink="true">http://ieeenitk.org/blog/lighting-up-your-room/</guid>
-        
-        <category>IEEE NITK</category>
-        
-        <category>Diode</category>
         
         <category>CAS</category>
         
-        <category>SPS</category>
+      </item>
+    
+      <item>
+        <title>Rock Paper Scissors</title>
+        <description>&lt;p&gt;If you have ever played the game of rock, paper scissors I bet that the best strategy you had was trying to predict your opponent’s move which is a pretty appealing idea. But given that it is nigh impossible to do that (unless, of course, you can read minds), is that really a sound strategy to adopt? If you think about it in a rational way there is no method to predict your opponent and basing your strategy on such an unpredictable thing is kind of dumb. I think the best approach to this problem is to make sure your...</description>
+        <pubDate>Mon, 04 Sep 2017 15:30:30 +0530</pubDate>
+        <link>http://ieeenitk.org/blog/Rock-Paper-Scissors/</link>
+        <guid isPermaLink="true">http://ieeenitk.org/blog/Rock-Paper-Scissors/</guid>
         
-        <category>EEE</category>
+        <category>Game Theory</category>
+        
+        <category>Strategy</category>
         
         
-        <category>IEEE</category>
+        <category>CAS</category>
+        
+      </item>
+    
+      <item>
+        <title>Airbus E-Fan</title>
+        <description>&lt;h2 id=&quot;the-airbus-e-fan-project&quot;&gt;The Airbus E-Fan Project&lt;/h2&gt; &lt;p&gt;For over a hundred years - and certainly many to follow, the aircraft industry, for the most part, has relied upon combustion based engines, ranging from the long-forgotten piston-prop through the state of the art Turbofan. Yet, no matter what the degree of advancement is in the field of such engines, what’s guaranteed is an ever-increasing toll of CO2 and other greenhouse gases.&lt;/p&gt; &lt;p&gt;The intuitive solution for sustainable development, as in nearly all domains of power generation, especially in transportation, is electricity. Presently, every mode of transport (save for aviation) employs at least a certain...</description>
+        <pubDate>Mon, 04 Sep 2017 15:30:30 +0530</pubDate>
+        <link>http://ieeenitk.org/blog/Airbus-E-Fan/</link>
+        <guid isPermaLink="true">http://ieeenitk.org/blog/Airbus-E-Fan/</guid>
+        
+        <category>Aviation</category>
+        
+        <category>Environment</category>
+        
+        
+        <category>Piston</category>
+        
+      </item>
+    
+      <item>
+        <title>Safety Issues in AI Systems</title>
+        <description>&lt;p&gt;I am pretty sure the title will flood the reader’s mind with images of Skynet and Matrix, but this post focuses on the shortcomings of AI technologies that are currently in vogue. It’s much more productive to contemplate on the loopholes in technologies like Neural Networks, as we are still a far cry from building systems that are at least as intelligent as earthworms.&lt;/p&gt; &lt;p&gt;AI has made several inroads into diverse fields such as NLP, Computer Vision, Autonomous Vehicles, Personal Assistants, and Game playing bots. AI has become truly ubiquitous. This magnifies the impact of security loopholes on the society....</description>
+        <pubDate>Mon, 04 Sep 2017 02:30:00 +0530</pubDate>
+        <link>http://ieeenitk.org/blog/Safety-Issues-in-AI-Systems/</link>
+        <guid isPermaLink="true">http://ieeenitk.org/blog/Safety-Issues-in-AI-Systems/</guid>
+        
+        <category>ML</category>
+        
+        <category>AI</category>
+        
+        <category>Security AI</category>
+        
+        
+        <category>Compsoc</category>
+        
+      </item>
+    
+      <item>
+        <title>Technology in Sports</title>
+        <description>&lt;p&gt;The world of sport is continually changing over the years, and the use of technology is just one of those areas that has made an impact on many sports. It has changed the way players approach a particular sport. Various technologies are used to assist umpires or referees, while some of them are used for advanced coaching and enhanced experience for fans.&lt;/p&gt; &lt;h2 id=&quot;a-digital-coach&quot;&gt;A digital coach…&lt;/h2&gt; &lt;p&gt;In the recently concluded Champions Trophy 2017, smart bats were used to obtain various data. Small sensors, fixed at the top of the handle, were used. The bat sensor, powered by the Intel Curie technology,...</description>
+        <pubDate>Tue, 22 Aug 2017 04:45:10 +0530</pubDate>
+        <link>http://ieeenitk.org/blog/Technology-in-Sports/</link>
+        <guid isPermaLink="true">http://ieeenitk.org/blog/Technology-in-Sports/</guid>
+        
+        <category>Sports</category>
+        
+        
+        <category>Diode</category>
+        
+      </item>
+    
+      <item>
+        <title>Hashing in Competitive Programming</title>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt; &lt;p&gt;At it’s most basic hashing is a technique to identify a particular value of a certain type among other values of the same type. To achieve this we typically make use of a hash function: a function that takes a value of the required type as input and generates a “key” that (hopefully) can uniquely identify this value. In this article we’ll look at how this function works, how it’s implemented in C++, and how to apply hashing to solve a Competitive Programming problem.&lt;/p&gt; &lt;h2 id=&quot;hashing-in-c&quot;&gt;Hashing in C++&lt;/h2&gt; &lt;p&gt;C++ offers 2 containers in C++ that are often useful...</description>
+        <pubDate>Tue, 22 Aug 2017 01:10:58 +0530</pubDate>
+        <link>http://ieeenitk.org/blog/Hashing-in-Competitive-Programming/</link>
+        <guid isPermaLink="true">http://ieeenitk.org/blog/Hashing-in-Competitive-Programming/</guid>
+        
+        <category>Hashing</category>
+        
+        <category>C++</category>
+        
+        <category>Competitive Programming</category>
+        
+        <category>Data Structures</category>
+        
+        
+        <category>CompSoc</category>
+        
+      </item>
+    
+      <item>
+        <title>When Strokes are Six</title>
+        <description>&lt;h3 id=&quot;man-and-his-car&quot;&gt;Man and his Car&lt;/h3&gt; &lt;p&gt;The stories are different, yet the same . From the spark that taught him about fire and the wheels that took him to places, to the roads that he hit everyday, he has come a long way. The love and passion to be in one, to feel its heartbeat and power, to drive and tame them, he has always loved them. But rare are those who are interested in the technology that drives their beasts.&lt;/p&gt; &lt;p&gt;It is said that technology advances in rapid pace. Though it is right for a majority of areas, advancements in...</description>
+        <pubDate>Sun, 13 Aug 2017 00:00:00 +0530</pubDate>
+        <link>http://ieeenitk.org/blog/six_stroke_engine/</link>
+        <guid isPermaLink="true">http://ieeenitk.org/blog/six_stroke_engine/</guid>
+        
+        <category>six stroke engines</category>
+        
+        
+        <category>Piston</category>
         
       </item>
     
